@@ -1,2 +1,3 @@
 f1
 Change from branch b1
+Change from branch master
